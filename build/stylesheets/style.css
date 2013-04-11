@@ -1,0 +1,274 @@
+/* -- Colors -- */
+/* -- Footer fix -- */
+#wrapper {
+  min-height: 100%;
+  position: relative; }
+
+html {
+  height: 100%; }
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%; }
+
+/* -- Backgrounds & Dividers -- */
+#top_bg {
+  background-color: #50747a; }
+
+#mid_bg {
+  padding-bottom: 240px; }
+
+#bottom_bg {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 240px;
+  /* Must match mid_bg height's*/
+  background: #594f4f; }
+
+/* -- debug grid -- */
+.row {
+  border: 0px solid red; }
+
+/* -- typekit fonts -- */
+/* -- Mostra Nuova -- */
+.mostra {
+  font-family: "mostra-nuova-1","mostra-nuova-2"; }
+
+/* -- Myriad Pro -- */
+.myriad {
+  font-family: "myriad-pro-1","myriad-pro-2"; }
+
+/* -- font colors -- */
+.light_green {
+  color: #a4b48c; }
+
+.dark_green {
+  color: #50747a; }
+
+/* -- header -- */
+header#header_bg {
+  margin: 0 auto;
+  padding: 40px 54px 0 54px;
+  height: 100%;
+  width: 1070px;
+  background-image: url(../images/header_bg.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat; }
+
+/* -- for alignment purpose -- */
+#header_box {
+  line-height: 1.6em;
+  position: relative;
+  left: -20px; }
+
+/* -- Title: Philadelphia -- */
+.header_txt a {
+  font-size: 1.8em;
+  letter-spacing: .1em;
+  color: #fff;
+  text-shadow: 1px 1px white, -1px -1px #444;
+  text-decoration: none;
+  font-weight: 600; }
+
+/* -- Sub Title: Couples Therapy -- */
+.sub_header_txt a {
+  font-size: 2.3em;
+  font-weight: bold;
+  letter-spacing: .2em;
+  color: #d1dadb;
+  text-decoration: none; }
+
+/* -- Appointment button - top/right -- */
+.header_appointment {
+  text-align: right;
+  position: relative;
+  right: -20px; }
+
+/* -- Clear floats -- */
+.clear {
+  clear: both;
+  padding: 0;
+  margin: 0; }
+
+/* -- row spacer for fluid reading -- */
+.spacer-top {
+  padding-top: 2em; }
+
+.spacer-bot {
+  padding-bottom: 2em; }
+
+/* -- Shadows -- */
+.shdw1 {
+  -moz-box-shadow: 0 0 50px -27px #000;
+  -webkit-box-shadow: 0 0 50px -27px #000;
+  box-shadow: 0 0 50px -27px #000;
+  behavior: url(g5/src/PIE.htc); }
+
+.shdw2 {
+  -moz-box-shadow: 0 0 15px -3px #000;
+  -webkit-box-shadow: 0 0 15px -3px #000;
+  box-shadow: 0 0 15px -3px #000;
+  behavior: url(g5/src/PIE.htc); }
+
+/* -- Horizontal lines -- */
+.line1 {
+  background-color: rgba(0, 0, 0, 0.1);
+  height: 11px;
+  width: 100%;
+  position: relative;
+  top: -20px; }
+
+.line2 {
+  background-color: #dadada;
+  height: 11px;
+  width: 100%;
+  position: relative;
+  top: -20px; }
+
+/* -- Slide show override -- */
+.meteor-slides {
+  -moz-box-shadow: 0 0 15px -3px #000;
+  -webkit-box-shadow: 0 0 15px -3px #000;
+  box-shadow: 0 0 15px -3px #000;
+  behavior: url(g5/src/PIE.htc); }
+
+/* NAV */
+.menu {
+  display: table;
+  width: 100%;
+  border: 0px solid red;
+  padding-left: 0; }
+  .menu li {
+    display: table-cell;
+    text-align: center;
+    border: 0px solid red;
+    text-transform: uppercase;
+    text-decoration: none; }
+  .menu a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #a4b48c; }
+    .menu a:hover {
+      color: #50747a; }
+
+/* -- main content -- */
+/* -- padding fix for fluid reading -- */
+.paddingfix {
+  padding-left: -20px; }
+
+/* -- home -- */
+.make_appointment {
+  font-size: 1.1em;
+  font-weight: normal;
+  color: #50747a;
+  line-height: 1em; }
+
+.about_anna li {
+  font-size: .9em;
+  font-weight: normal;
+  color: #50747a;
+  line-height: 20px; }
+
+.testimonials {
+  font-size: .9em;
+  font-weight: normal;
+  color: #594f4f; }
+
+.testimonials_link {
+  font-size: 14px;
+  font-weight: normal;
+  font-family: "Georgia";
+  letter-spacing: 2px;
+  text-transform: uppercase; }
+
+hr {
+  border-top: 1px dotted #e0e0e1;
+  padding-bottom: 10px; }
+
+/* -- IMG Alignment -- */
+.img_intext_right {
+  padding: 0 0 1em 1em; }
+
+.img_intext_left {
+  padding: 0 1em 1em 0; }
+
+.align_right {
+  float: right; }
+
+.align_left {
+  float: left; }
+
+h4 {
+  color: #a4b48c; }
+
+#location address {
+  position: relative;
+  top: 2em; }
+
+#location address a {
+  color: orange;
+  text-decoration: none; }
+
+/* -- footer -- */
+.contact_bottom {
+  color: #fff;
+  line-height: 1em; }
+
+.contact_bottom p span {
+  font-weight: bold; }
+
+/* -- Button override -- */
+.cus_green {
+  color: #fff !important;
+  border: solid 1px #839ba0;
+  background: #53787f;
+  background: -webkit-gradient(linear, left top, left bottom, from(#84bfc8), to(#5c838b));
+  background: -moz-linear-gradient(top, #84bfc8, #5c838b);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#84bfc8', endColorstr='#5c838b'); }
+
+.cus_green:hover {
+  background: #44656c;
+  background: -webkit-gradient(linear, left top, left bottom, from(#5c838b), to(#84bfc8));
+  background: -moz-linear-gradient(top, #5c838b, #84bfc8);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#5c838b', endColorstr='#84bfc8'); }
+
+.cus_green:active {
+  color: #fff !important;
+  background: -webkit-gradient(linear, left top, left bottom, from(#84bfc8), to(#5c838b));
+  background: -moz-linear-gradient(top, #84bfc8, #5c838b);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#84bfc8', endColorstr='#5c838b'); }
+
+/* -- Contact Form Override -- */
+.mp_submit {
+  color: #fff !important;
+  border: solid 1px #839ba0;
+  background: #53787f;
+  background: -webkit-gradient(linear, left top, left bottom, from(#53787f), to(#5c838b));
+  background: -moz-linear-gradient(top, #53787f, #5c838b);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#53787f', endColorstr='#5c838b'); }
+
+.mp_submit:hover {
+  background: #44656c;
+  background: -webkit-gradient(linear, left top, left bottom, from(#44656c), to(#698f96));
+  background: -moz-linear-gradient(top, #757575, #4b4b4b);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#44656c', endColorstr='#698f96'); }
+
+.mp_submit:active {
+  color: #fff !important;
+  background: -webkit-gradient(linear, left top, left bottom, from(#44656c), to(#698f96));
+  background: -moz-linear-gradient(top, #44656c, #698f96);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#44656c', endColorstr='#698f96'); }
+
+.mp-form input[type=text] {
+  margin: 5px 0;
+  padding: 5px;
+  border: 0px dotted #ccc;
+  -moz-box-shadow: 0 0 8px -27px #000;
+  -webkit-box-shadow: 0 0 8px -27px #000;
+  box-shadow: 0 0 8px -3px #000;
+  behavior: url(g5/src/PIE.htc); }
+
+.mp-container {
+  margin: 0 0 20px 0; }

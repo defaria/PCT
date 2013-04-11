@@ -1,0 +1,210 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"CO",
+				"CONDITIONS"
+			],
+			[
+				"node_val",
+				"node_value"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/ruby/middleman/PhiladelphiaCouplesTherapy/config.rb",
+		"/C/ruby/middleman/PhiladelphiaCouplesTherapy/source/layouts/layout.slim",
+		"/C/ruby/middleman/PhiladelphiaCouplesTherapy/pct.sublime-project",
+		"/C/ruby/middleman/PhiladelphiaCouplesTherapy/dr-nicholaides.html.slim",
+		"/C/ruby/middleman/PhiladelphiaCouplesTherapy/make-appointment.html.slim",
+		"/C/ruby/middleman/PhiladelphiaCouplesTherapy/our-process.html.slim",
+		"/C/ruby/middleman/PhiladelphiaCouplesTherapy/layouts/layout.slim",
+		"/C/ruby/middleman/test_project/config.rb",
+		"/C/ruby/middleman/PhiladelphiaCouplesTherapy/stylesheets/normalize.css",
+		"/C/ruby/middleman/PhiladelphiaCouplesTherapy/menu.slim",
+		"/C/ruby/middleman/PhiladelphiaCouplesTherapy/stylesheets/style.scss",
+		"/C/ruby/middleman/PhiladelphiaCouplesTherapy/layouts/subpage.slim",
+		"/C/ruby/middleman/PhiladelphiaCouplesTherapy/location.html.slim",
+		"/C/ruby/middleman/test_project/source/images/anna_big.jpg",
+		"/C/ruby/middleman/test_project/source/stylesheets/gridiculous.css",
+		"/C/ruby/middleman/test_project/source/stylesheets/main.css",
+		"/C/Users/DFaria/Desktop/philadelphiacouplestherapy.com/wp-content/themes/pct/g5/css/base.css",
+		"/C/ruby/middleman/test_project/source/menu.html.slim",
+		"/C/Users/DFaria/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/DFaria/Desktop/philadelphiacouplestherapy.com/wp-content/themes/pct/g5/src/PIE.htc",
+		"/C/ruby/middleman/test_project/source/stylesheets/meteor-slides.css",
+		"/C/ruby/middleman/test_project/source/stylesheets/all.css",
+		"/C/ruby/middleman/test_project/source/stylesheets/base.css",
+		"//stcodd14/Universal_FTP/Dealer5885.xls",
+		"/C/Users/DFaria/Desktop/philadelphiacouplestherapy.com/wp-content/themes/pct/loop-page.php",
+		"/C/ruby/middleman/test_project/source/layouts/layout.slim",
+		"/C/ruby/middleman/test_project/source/stylesheets/style.css",
+		"/C/ruby/middleman/test_project/Gemfile",
+		"/C/Users/DFaria/Google Drive/rails/blog/app/models/comment.rb",
+		"/C/Users/DFaria/Google Drive/rails/blog/app/controllers/comments_controller.rb",
+		"/C/Users/DFaria/Google Drive/rails/blog/app/views/comments/_comment.html.erb",
+		"/C/Users/DFaria/Google Drive/rails/blog/app/views/comments/_form.html.erb",
+		"/C/Users/DFaria/Google Drive/rails/blog/app/views/posts/show.html.erb",
+		"/C/Users/DFaria/Google Drive/rails/blog/config/routes.rb",
+		"/C/Users/DFaria/Google Drive/rails/blog/app/models/post.rb",
+		"/C/Users/DFaria/Google Drive/rails/blog/app/controllers/posts_controller.rb",
+		"/C/Users/DFaria/Google Drive/rails/blog/app/views/home/index.html.erb",
+		"/C/Users/DFaria/Google Drive/rails/blog/app/views/layouts/application.html.erb",
+		"/C/Users/DFaria/Google Drive/HN/filterme8 (1).html",
+		"/C/Users/DFaria/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"address",
+			"clear",
+			"h3",
+			"p",
+			"myriad",
+			"h3",
+			"activate :directory_indexes",
+			"light_green",
+			"h6",
+			"content_top",
+			"#top_header",
+			"h3",
+			"h6",
+			"content",
+			"front-r",
+			"articl",
+			"h6",
+			"top"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 339.0,
+	"status_bar_visible": true
+}
